@@ -1,6 +1,7 @@
 ### Ola! 👋
 
-My name's Maksym Parfenov, I'm contributor to @spacemeshos where we’re building a proof-of-space-time (PoST) consensus protocol.
-- 🇵🇹 I'm living in Portugal now.
-- 🤩 Experimenting with Javscript / React.js / React Native / Flutter / Node.js.
-- 🦩 Enjoing my nomad experience.
+Hi there 👋 I'm Max
+👨‍💻 I'm a Software Engineer
+🌴 Enjoing my nomad experience.
+🔬 I’m actively contributing to open-source projects
+💬 Ask me about Electron, Ionic, React Native, React, and TypeScript.
